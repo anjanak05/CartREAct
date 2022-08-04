@@ -1,0 +1,15 @@
+.containerDiv {
+  border: 1px solid magenta;
+  display: flex;
+  width: 40%;
+  border-radius: 5px;
+  gap:10px;
+  margin: auto;
+  justify-content: space-evenly;
+}
+.btnCon {
+
+  display: flex;
+  justify-content: space-evenly;
+}
+
